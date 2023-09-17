@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package user;
 
-option go_package="github.com/stewie1520/elasticpmapi/src";
+option go_package="github.com/stewie1520/elasticpmapi/proto/user";
 
 import "google/protobuf/timestamp.proto";
 
